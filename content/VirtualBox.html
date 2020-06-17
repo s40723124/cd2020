@@ -154,10 +154,23 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">Week 4 << <a href='Week 4.html'>Previous</a> <a href='Week 7.html'>Next</a> >> Week 7<br /><h1>Week 6</h1>
-<p>使用<a href="https://portableapps.com/apps/music_video/obs-studio-portable">OBS portable</a>以及<a href="https://studio.youtube.com/channel/UClTVJDNTydn9L8sVVI-y1Fg/livestreaming">Youtube</a>進行串流</p>
-<p>接下來使用<a href="https://gsuite.google.com/intl/zh-tw/products/meet/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=japac-TW-all-en-dr-bkws-all-golden-remotework-e-dr-1008070&amp;utm_content=text-ad-none-none-DEV_c-CRE_427032631324-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%7C%20Hangouts%20%7C%20%5B1:1%5D%20%7C%20TW%20%7C%20EN%20%7C%20Meet%20%7C%20google%20meet-KWID_43700052562680230-kwd-299356619278-userloc_9040316-network_g&amp;utm_term=KW_google%20meet&amp;gclid=EAIaIQobChMIpfOZ_tXX6AIVjWkqCh0g0Q0dEAAYASAAEgI_0vD_BwE&amp;gclsrc=aw.ds">Google<span> </span></a><span><a href="https://gsuite.google.com/intl/zh-tw/products/meet/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=japac-TW-all-en-dr-bkws-all-golden-remotework-e-dr-1008070&amp;utm_content=text-ad-none-none-DEV_c-CRE_427032631324-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%7C%20Hangouts%20%7C%20%5B1:1%5D%20%7C%20TW%20%7C%20EN%20%7C%20Meet%20%7C%20google%20meet-KWID_43700052562680230-kwd-299356619278-userloc_9040316-network_g&amp;utm_term=KW_google%20meet&amp;gclid=EAIaIQobChMIpfOZ_tXX6AIVjWkqCh0g0Q0dEAAYASAAEgI_0vD_BwE&amp;gclsrc=aw.ds">Hangouts Meet</a>遠距離教學</span></p>
-<br />Week 4 << <a href='Week 4.html'>Previous</a> <a href='Week 7.html'>Next</a> >> Week 7</div>
+    <div id="tipue_search_content">Youtube 直播紀錄 << <a href='Youtube 直播紀錄.html'>Previous</a> <br /><h1>VirtualBox</h1>
+<p>第14周與第15周皆被抽到，但都遇到了一些問題，因為時間上的關係所以沒有處理完，還在努力中。</p>
+<p><img alt="" height="868" src="./../images/VirtualBox_euxPqPcByD.png" width="1701"/></p>
+<h4>(IPv6) Setting VirtualBox Network</h4>
+<p>1.將設定<span>調成NAT Network</span></p>
+<p><span><img alt="" height="516" src="./../images/Annotation 2020-06-17 084904.png" width="648"/></span></p>
+<p><span>2.打 ifconfig 尋找IPv6網路</span></p>
+<p><span>3.安裝網路工具，密碼為kmol2020</span></p>
+<p><span>4.到 /etc/netplan檢查00-installer-config.yaml 檔案內的設定</span></p>
+<p><span>5.將00-installer-config.yaml<span>設定改為下圖</span></span></p>
+<p><span><span><img alt="" height="319" src="./../images/Annotation 2020-06-17 085256.png" width="496"/></span></span></p>
+<p><span><span>6.編輯完成後按insert退出編輯&gt;esc&gt;:wq <span>跳出編輯並儲存，接著更新netplan設定</span></span></span></p>
+<p><span><span><span>7.到 /etc/apt/apt.conf.d 目錄下檢查是否有proxy.conf檔案</span></span></span></p>
+<p><span>8.proxy.conf的檔案內容 (53 or 69)為proxy的port號</span></p>
+<p><span>9.新增完內容更新apt</span></p>
+<p><span>10.再試一次ifconfig尋找IPv6網路</span></p>
+<p><span></span></p><br />Youtube 直播紀錄 << <a href='Youtube 直播紀錄.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
