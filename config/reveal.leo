@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,29 +10,98 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630221923.1"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630221923.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630214137.1"><vh>導入影片</vh>
+<v t="leo.20200630214137.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222135.1"><vh>導入影片</vh>
+<v t="leo.20200630222135.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222137.1"><vh>導入影片</vh>
+<v t="leo.20200630222137.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222143.1"><vh>導入影片</vh>
+<v t="leo.20200630222143.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222146.1"><vh>導入影片</vh>
+<v t="leo.20200630222146.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222155.1"><vh>導入影片</vh>
+<v t="leo.20200630222155.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630222148.1"><vh>導入影片</vh>
+<v t="leo.20200630222148.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20200630214314.1"><vh>各式內容引用範例</vh>
+<v t="leo.20200630214314.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630214314.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20200630214317.1"><vh>各式內容引用範例</vh>
+<v t="leo.20200630214317.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630214317.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20200630214317.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20200630214317.5"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20200630214317.6"><vh>導入影片</vh>
+<v t="leo.20200630214317.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630214317.8"><vh>導入影片</vh>
+<v t="leo.20200630214317.9"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221135.1"><vh>導入影片</vh>
+<v t="leo.20200630221135.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221137.1"><vh>導入影片</vh>
+<v t="leo.20200630221137.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221139.1"><vh>導入影片</vh>
+<v t="leo.20200630221139.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221250.1"><vh>導入影片</vh>
+<v t="leo.20200630221250.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221253.1"><vh>導入影片</vh>
+<v t="leo.20200630221253.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20200630221254.1"><vh>導入影片</vh>
+<v t="leo.20200630221254.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20200630222743.1"><vh>各式內容引用範例</vh>
+<v t="leo.20200630222743.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630222743.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20200630222821.1"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200630222821.2"><vh>LaTeX 格式方程式</vh></v>
 </v>
 </v>
 </v>
@@ -48,15 +114,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
+<t tx="leo.20180902120523.10">## 協同產品設計實習
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40723124](https://github.com/s40723124/cd2020)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[Website](https://s40723124.github.io/cd2020/content/index.html)
+
+[Repository](https://github.com/s40723124/cd2020)
 
 
 </t>
@@ -69,14 +135,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># Python3.8.2
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;small&gt;下載[Python3.8.2](https://www.python.org/downloads/release/python-382/) 的Windows x86-64 executable installer版本
+
+
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -95,12 +158,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
+<t tx="leo.20180902120523.15">Week 1
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+創建cd2020的倉儲
 
-$$I = \int \rho R^{2} dV$$
+創建個人網站
 </t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -113,34 +175,9 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20180902120523.17">Week 2
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
+將python 3.7.3更新至3.8.2</t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -150,11 +187,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180902120523.19">## 使用 iframe 導入影片
+<t tx="leo.20180902120523.19">Week 4
 
-### 導入影片 template
+分組討論及小組會議
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -326,5 +362,305 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200630214137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630214137.2">Week 6
+
+使用OBS portable以及Youtube進行串流
+
+接下來使用Google Hangouts Meet遠距離教學
+
+
+
+</t>
+<t tx="leo.20200630214314.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200630214314.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630214314.3"># 線上直播討論
+
+[Week2](https://youtu.be/e89PLiLRle8)
+
+[Week4](https://youtu.be/-MoaduLrKiI)
+
+[Week6](https://youtu.be/ihUp_mp5FRY)
+
+[Week7](https://youtu.be/OSKbrzVS9cs)
+
+[Week10](https://youtu.be/qvnw7KaMm_8)
+
+[Week13](https://youtu.be/xFM1NzUYCZA)</t>
+<t tx="leo.20200630214317.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200630214317.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630214317.3"># VirtualBox
+
+
+
+(IPv6) Setting VirtualBox Network
+
+將設定調成NAT Network
+
+</t>
+<t tx="leo.20200630214317.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630214317.5">打 ifconfig 尋找IPv6網路</t>
+<t tx="leo.20200630214317.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630214317.7">安裝網路工具，密碼為kmol2020
+
+</t>
+<t tx="leo.20200630214317.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630214317.9">到 /etc/netplan檢查00-installer-config.yaml 檔案內的設定
+</t>
+<t tx="leo.20200630221135.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221135.2">將00-installer-config.yaml設定改掉</t>
+<t tx="leo.20200630221137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221137.2">編輯完成後按insert退出編輯&gt;esc&gt;:wq 跳出編輯並儲存，接著更新netplan設定
+</t>
+<t tx="leo.20200630221139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221139.2">到 /etc/apt/apt.conf.d 目錄下檢查是否有proxy.conf檔案
+</t>
+<t tx="leo.20200630221250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221250.2">proxy.conf的檔案內容 (53 or 69)為proxy的port號</t>
+<t tx="leo.20200630221253.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221253.2">新增完內容更新apt
+</t>
+<t tx="leo.20200630221254.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630221254.2">再試一次ifconfig尋找IPv6網路</t>
+<t tx="leo.20200630221923.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630221923.2"># Week 1~18
+
+
+</t>
+<t tx="leo.20200630222135.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222135.2">Week 7
+
+四輪機器人
+</t>
+<t tx="leo.20200630222137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222137.2">Week 8
+
+下載CoppeliaSim，放到可攜系統。
+
+將 leo 升級到6.2.1
+</t>
+<t tx="leo.20200630222143.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222143.2">Week 9
+
+期中報告、拍影片。
+</t>
+<t tx="leo.20200630222146.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222146.2">Week 10
+
+直播分配工作
+</t>
+<t tx="leo.20200630222148.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222148.2">Week 17 
+
+整理自己這學期的作業以及期末報告、影片。</t>
+<t tx="leo.20200630222155.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200630222155.2">Week 12~16
+
+12周開始每周每組各抽9個號碼共三組，完成指定的作業，解決衝突。
+
+</t>
+<t tx="leo.20200630222743.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200630222743.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630222743.3"># 心得
+
+
+</t>
+<t tx="leo.20200630222821.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200630222821.2">這學期因為疫情的關係，有好幾周是遠距離教學，而因為我的電腦壞掉所以沒辦法使用，所以利用這最後幾周的時間試著趕上大家的進度，把不會的全部搞懂。雖然還是沒有大家來的厲害，不過這學期真的學到了不少東西，謝謝老師這學期的教導!
+
+
+</t>
 </tnodes>
 </leo_file>
